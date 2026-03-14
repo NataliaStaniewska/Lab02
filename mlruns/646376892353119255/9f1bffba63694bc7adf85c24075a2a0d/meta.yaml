@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646376892353119255/9f1bffba63694bc7adf85c24075a2a0d/artifacts
+end_time: 1773474932206
+entry_point_name: ''
+experiment_id: '646376892353119255'
+lifecycle_stage: active
+run_id: 9f1bffba63694bc7adf85c24075a2a0d
+run_name: peaceful-wasp-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773474930594
+status: 3
+tags: []
+user_id: natalka

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646376892353119255/609b7ec14dc84e55873da0a8a214c383/artifacts
+end_time: 1773475356963
+entry_point_name: ''
+experiment_id: '646376892353119255'
+lifecycle_stage: active
+run_id: 609b7ec14dc84e55873da0a8a214c383
+run_name: serious-crow-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773475355586
+status: 3
+tags: []
+user_id: natalka

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646376892353119255/56a7dd3bf7fb4a47992b41189baedbc4/artifacts
+end_time: 1773475348165
+entry_point_name: ''
+experiment_id: '646376892353119255'
+lifecycle_stage: active
+run_id: 56a7dd3bf7fb4a47992b41189baedbc4
+run_name: treasured-shrew-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773475346721
+status: 3
+tags: []
+user_id: natalka

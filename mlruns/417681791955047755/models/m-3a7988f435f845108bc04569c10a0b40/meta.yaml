@@ -1,0 +1,10 @@
+artifact_location: file:///Users/natalka/PycharmProjects/Lab02/mlruns/417681791955047755/models/m-3a7988f435f845108bc04569c10a0b40/artifacts
+creation_timestamp: 1773477087245
+experiment_id: '417681791955047755'
+last_updated_timestamp: 1773477088608
+model_id: m-3a7988f435f845108bc04569c10a0b40
+model_type: null
+name: model
+source_run_id: e0780cc3263b4b369466180342ac463a
+status: 2
+status_message: null

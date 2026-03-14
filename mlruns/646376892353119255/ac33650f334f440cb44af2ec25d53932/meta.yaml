@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646376892353119255/ac33650f334f440cb44af2ec25d53932/artifacts
+end_time: 1773475365297
+entry_point_name: ''
+experiment_id: '646376892353119255'
+lifecycle_stage: active
+run_id: ac33650f334f440cb44af2ec25d53932
+run_name: omniscient-bee-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773475363897
+status: 3
+tags: []
+user_id: natalka

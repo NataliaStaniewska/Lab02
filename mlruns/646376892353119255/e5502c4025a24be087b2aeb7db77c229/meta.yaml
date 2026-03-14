@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646376892353119255/e5502c4025a24be087b2aeb7db77c229/artifacts
+end_time: 1773477070686
+entry_point_name: ''
+experiment_id: '646376892353119255'
+lifecycle_stage: active
+run_id: e5502c4025a24be087b2aeb7db77c229
+run_name: rebellious-mare-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773477069252
+status: 4
+tags: []
+user_id: natalka
